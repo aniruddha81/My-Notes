@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="my_notes">My Notes</string>
+    <string name="dev_aniruddha_roy_cse_22">DEV : Aniruddha Roy (CSE-22)</string>
+    <string name="just_note_it">Just Note It</string>
+    <string name="newnote">newNote</string>
+    <string name="title">Title…</string>
+    <string name="subtitle">SubTitle</string>
+    <string name="notes">Notes</string>
+    <string name="priority">Priority</string>
+    <string name="updatenote">UpdateNote</string>
+    <string name="delete">Delete</string>
+    <string name="are_you_sure_want_to_delete_nthis_note">Are you sure want to delete\nthis note?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="filter_icon">filter icon</string>
+    <string name="no_filter">No Filter</string>
+    <string name="high_to_low">High to Low</string>
+    <string name="low_to_high">Low to High</string>
+    <string name="search">Search</string>
+</resources>
